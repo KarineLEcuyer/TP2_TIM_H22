@@ -1,4 +1,4 @@
-## Chère Sasha
+# Chère Sasha
 ### Créateurs/créatrices
 * #### TrishTrish Nguyen
 * #### Angelina De Silva Jeca
