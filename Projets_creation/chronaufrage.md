@@ -1,4 +1,4 @@
-# Chronofrage
+# Chronaufrage
 ### Créateurs/créatrices
 * #### Maloney Khim
 * #### Sounthida Kong* ####
