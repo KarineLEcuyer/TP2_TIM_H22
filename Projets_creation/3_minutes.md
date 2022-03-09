@@ -6,6 +6,13 @@
 ### Exploitation du temps
 * ##### À travers le temps, le but de ce projet est de sensibiliser la personne en la faisant expérimenté du bon temps et du mauvais temps à partir d'une immersion dans des activités plaisantes et déplaisantes.
 
+### Ambiance
+* ##### Joyeuse
+* ##### Énergique
+* ##### Entousiasme
+* ##### Peur
+* ##### Détresse
+
 ### Instalation
 
 ![image](https://user-images.githubusercontent.com/98911722/157357188-b68f3a2d-5554-4a65-8fc7-bbbe491a2415.png)
