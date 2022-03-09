@@ -1,9 +1,7 @@
 # 3 minutes
 
 ### Créateurs/créatrices
-* #### Naoufal Bensaiad
-* #### Jérémie Lévesque
-* #### Samuel Poulin
+* #### Naoufal Bensaiad-Jérémie Lévesque-Samuel Poulin
 
 ### Exploitation du temps
 * ##### À travers le temps, le but de ce projet est de sensibiliser la personne en la faisant expérimenté du bon temps et du mauvais temps à partir d'une immersion dans des activités plaisantes et déplaisantes.
