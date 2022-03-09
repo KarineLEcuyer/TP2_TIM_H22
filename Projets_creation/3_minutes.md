@@ -15,6 +15,7 @@
 
 ### Instalation
 
+### Schéma de plantation
 ![image](https://user-images.githubusercontent.com/98911722/157357188-b68f3a2d-5554-4a65-8fc7-bbbe491a2415.png)
 * #### Source: https://tim-montmorency.com/2022/projets/3-minutes/docs/preproduction/medias/plantation2.drawio.png
 
