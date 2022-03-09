@@ -1,2 +1,0 @@
-# les projets ordonnés selon mon ordre de préférence actuelle
-
