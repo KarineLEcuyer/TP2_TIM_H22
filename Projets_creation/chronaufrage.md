@@ -1,7 +1,26 @@
 # Chronaufrage
+
 ### Créateurs/créatrices
-* #### Maloney Khim
-* #### Sounthida Kong* ####
-* #### Olivier Lalonde
-* #### Rebecca Pilotte
-* #### Émilie Fontaine
+* #### Maloney Khim-Sounthida Kong-Olivier Lalonde-Rebecca Pilotte-Émilie Fontaine
+
+### Exploitation du temps
+* #### Ils ont utilisé la pression vécu par l'humain dans la société où ils sont toujours poussé à être plus productif afin d'exprimer le besoin de prendre des pauses ou du temps pour soi. 
+
+### Ambiance
+* ##### Professionnel
+* ##### Relaxant
+
+### Instalation
+
+### Schéma de plantation
+![image](https://user-images.githubusercontent.com/98911722/157498246-1cd321e3-c86c-4d81-ad0b-cba3f3c4d31e.png)
+* #### Source: https://tim-montmorency.com/2022/projets/Chronaufrage/docs/preproduction/medias/plan_technique.png
+
+### Interaction
+* #### Intéragir avec la scène
+* #### Suivre les indications (ex.: écrire un comentaire) 
+
+### Cours requis pour la création du projet
+* #### Animation 2D
+* #### Atelier d'illustration numérique
+* #### Atelier de création d'images matricielles
