@@ -13,8 +13,8 @@
 ### Instalation
 
 ### Schéma de plantation
-![image](https://user-images.githubusercontent.com/98911722/157498246-1cd321e3-c86c-4d81-ad0b-cba3f3c4d31e.png)
-* #### Source: https://tim-montmorency.com/2022/projets/Chronaufrage/docs/preproduction/medias/plan_technique.png
+![image_chronaufrage](photographie/image_chronaufrage.png)
+* #### Source de l'image: https://tim-montmorency.com/2022/projets/Chronaufrage/docs/preproduction/medias/plan_technique.png
 
 ### Interaction
 * #### Intéragir avec la scène
