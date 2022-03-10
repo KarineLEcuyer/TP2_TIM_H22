@@ -14,8 +14,8 @@
 ### Instalation
 
 ### Schéma de plantation 
-![image](https://user-images.githubusercontent.com/98911722/157368793-97fd048b-1f7d-4871-9f61-4d507277e075.png)
-* #### Source: https://tim-montmorency.com/2022/projets/Chere-Sasha/docs/preproduction/medias/plantation_01.jpg
+![image_chere_sasha](photographie/image_chere_sasha.jpeg)
+* #### Source de l'image: https://tim-montmorency.com/2022/projets/Chere-Sasha/docs/preproduction/medias/plantation_01.jpg
 
 ### Intéraction
 * #### Interagir avec le jeu en écoutant et en faisant ce qui est demandé (ex.: laisser des mots d'encouragement à Sasha)
