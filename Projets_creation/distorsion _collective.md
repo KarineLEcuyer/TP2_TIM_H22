@@ -14,6 +14,8 @@
 ### Instalation
 
 ### Schéma de plantation
+![image_distorsion_collective](photographie/image_distorsion_collective.png)
+* #### Source de l'image:https://tim-montmorency.com/2022/projets/Distorsion-collective/docs/preproduction/medias/planV2.png
 
 ### Intéraction
 * #### Intéragir avec le jeu 
