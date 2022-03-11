@@ -9,7 +9,6 @@
 ### Ambiance
 * ##### Joyeuse
 * ##### Énergique
-* ##### Entousiasme
 * ##### Peur
 * ##### Détresse
 
