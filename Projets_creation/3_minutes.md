@@ -20,7 +20,7 @@
 * #### Source de l'image: https://tim-montmorency.com/2022/projets/3-minutes/docs/preproduction/medias/plantation2.drawio.png
 
 ### Intéraction
-* #### Intéraction avec le jeu (jouer au ballon chasseur/s'enfermer dans un casier)
+* #### Intéragir avec le jeu (jouer au ballon chasseur/s'enfermer dans un casier)
 * #### Suivre les instructions du jeu
 
 ### Cours requis pour la création du projet
