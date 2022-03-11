@@ -12,5 +12,6 @@ Explotation du temps
 ### Instalation
 
 ### Schema de plantation
-![image_jeu_temporel](
+![image_jeu_temporel](photographie/image_jeu_temporel.png)
 * #### Source de l'image: https://tim-montmorency.com/2022/projets/Jeu-Temporel/docs/preproduction/medias/plans/plan_technique_new.png
+ 
