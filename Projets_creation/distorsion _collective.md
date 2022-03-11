@@ -4,7 +4,7 @@
 * ##### William Dubois- Ghislain Lacombe
 
 ### Explotation du temps
-* ##### Faire comprendre les E<MOTIOND ressenties au cours du confinement par un etudiant.
+* ##### Faire comprendre les émotions ressenties au cours du confinement par un etudiant.
 
 ### Ambiance
 * ##### Joie
@@ -16,7 +16,7 @@
 ### Schéma de plantation
 
 ### Intéraction
-* #### OINTERAGIR avec le jeu 
+* #### Intéragir avec le jeu 
 * #### Suivre les instruction (ex.: mettre le casque)
 
 ### Cours requis pour la création du projet
