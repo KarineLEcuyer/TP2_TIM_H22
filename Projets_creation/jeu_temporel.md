@@ -1,15 +1,19 @@
 # Jeu temporel
+
 ### Créateurs/créatrices
 * #### Raphaël Fillion-Philippe Trudel
 
 Explotation du temps
-* ##### Faire réaliser a la population les consequences que nos actions auront sur l'environnement dans un  futur proche. La sensibilisation étant le but premier a fait évoquer chez les participants un moement troublant du au changement d'ambiance répétitif que présentera le jeu.
+* ##### Faire réaliser à la population les conséquences que nos actions auront sur l'environnement dans un  futur proche. La sensibilisation étant le but premier a fait évoquer chez les participants un moement troublant dû au changement d'ambiance répétitif que présente le jeu.
 
 ### Ambiance
 * ##### Joie
 * ##### Troublante
 
 ### Instalation
+* #### Lors de notre visite, ils étaient en pleine révision de leur codage, mais ont quand même pris le temps de répondre à nos question sur l'immensité de leur instalation.
+![image_station_ordi](photographie/image_station_ordi.jpg)
+
 
 ### Schema de plantation
 ![image_jeu_temporel](photographie/image_jeu_temporel.png)
