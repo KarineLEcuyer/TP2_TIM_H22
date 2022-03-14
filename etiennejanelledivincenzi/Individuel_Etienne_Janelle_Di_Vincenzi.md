@@ -1,52 +1,51 @@
 # Projet préféré
-## - 1 : L'horloge de l'apocalypse
+## - 1 : Jeu temporel
 
-Raison: Cette oeuvre est ma préférée car je la trouve originale et intéressante. J'aime le fait que nous avons le contrôle sur l'horloge pour changer le temps et donc changer la situation sur la Terre et que nous sommes dans une pièce isolée dans le petit studio. Nous sommes entourés de projections dans la petite pièce avec des trames sonores qui représentent bien la vidéo affichée sur les murs.
-
-
-## - 2 : 3 minutes
-
-Raison: J'ai envie de tester ce projet car il a l'air amusant à essayer. Ce sera surement amusant de lancer des ballons virtuellement en VR. J'ai utilisé un casque VR une seule fois dans ma vie et c'était quand j'étais plus jeune. Je veux vivre l'expérience d'être enfermé dans un casier pour le plaisir aussi.
-
-## - 3 : Chère Sasha
-
-Raison: Je veux vraiment voir l'installation de la belle chambre et de la chambre sale et j'aime le fait que cette oeuvre sera plus montée physiquement qu'électroniquement. J'ai mis cette oeuvre à la troisième place car elle est moins remplie que l'oeuvre numéro deux selon moi.
+Raison: J'ai décidé de mettre ce projet en première position puisque le thème de ce projet est sur notre société et la sensibilisation de l'environnement et je crois que c'est très intelligent d'enseigner ce sujet à travers une oeuvre interactive multimédia, c'est comme apprendre en s'amusant.
 
 
-## - 4 : Chronaufrage
+## - 2 : Horloge de l'apocalypse
 
-Raison:J'ai hâte de voir les animations et les dessins créés par les étudiants. Malheureusement, cette oeuvre est un peu moins interactive que les autres oeuvres car elle réagit seulement quand on se met devant mais nous ne contrôlons pas d'autres choses. J'ai vu un aperçu des dessins qu'il y allait avoir dans le projet et cela m'a impressionné.
+Raison: Jai mis celui-ci en deuxième position puisque j'aime vraiment les projections artistique faites par les étudiants et aussi qu'il y a de la musique qui viens avec pour donner de l'ambiance et accompagner les projections. J'aime le fait qu'on peut manipuler le temps et changer d'époque lorsque l'on veut.
 
-## - 5 : Distorsion collective
+## - 3 : Distortion collective
 
-Raison: Ce projet raconte la vie durant la pandémie mondiale de la Covid-19 et ses effets négatifs. C'est sur que je n'aime pas entendre parler de l'école en ligne et des masques, mais je trouve intéressant le fait qu'il va y avoir du VR pour nous présenter cela.
+Raison: Je crois que ce projet est vraiment bien puisqu'il représente la situation currente de la pandémie mondiale et comment cela affecte les étudiants dans leur vie et je crois que la majorité des élèves de l'école pourront se voir à un certain point dans ce projet, surtout que c'est un projet de réalité virtuelle.
 
-## - 6 : Jeu temporel
 
-Raison: Je ne suis pas spécialement un fan de ce sujet, mais ce projet a l'air bien monté et est unique dans le sens ou il y a plusieurs alternatives de fins qui vont nous donner envie de recommencer le questionnaire pour voir toutes les possibilités.
+## - 4 : Chère Sasha
 
+Raison: J'aime bien ce projet puisqu'on peut observer l'évolution de la personne à travers leur chambre qu'on peut voire en projection, qui représente leur état mental, mais je trouve que c'est dommage que ses parents ne l'accepte pas pour son orientation.
+
+## - 5 : 3 minutes
+
+Raison: J'aime le principe du VR dans cette oeuvre et je crois que c'est le plus interactif des projets mais, je crois que faire de l'éducation physique sur VR fonctionne mieux en papier qu'en vrai.
+
+## - 6 : Chronaufrage
+
+Raison: Je crois que c'est bien un tableau d'art interactif car c'est rare que l'on voit ça, mais je crois que c'est trop simple et que c'est plus comme une video qui s'active quand tu est devant, ce que je trouve un peu moins interactif que les autres oeuvres.
 
 
 
 # Ressenti des installations
 
-## L'horloge de l'apocalypse :
-Je vais ressentir un peu de stress quand l'aiguille de l'horloge va tourner et que la scène va devenir de pire en pire. Surtout que ça va commencer doux au début et que ça va graduellement s'empirer ça va être inconfortable.
+## Jeu temporel :
+En jouant à cela, je vais m'éclaircir sur le sujet de l'environnement en apprenant et ça va me faire rendre conscient des enjeux environnementaux.
 
-## Chronaufrage :
-Je crois que ces oeuvres vont nous calmer où nous rendre tristes un peu vu que les thèmes sont sombres.
+## Horloge de l'apocalypse :
+Je crois que je vais ressentir de la curiosité et de l'amusement en changeant l'heure et en observant les époques changer sur le tableaux.
 
 ## Distorsion collective :
-Je crois que cette oeuvre va nous causer un sentiment de dérangement. Cette oeuvre va nous rappeler un mauvais temps et nous serons désatisfaits de nous rappeler de ce temps.
-
-## Jeu temporel :
-Cette oeuvre va nous donner un sentiment d'inquiétude car elle va nous rappeler à quel point nous sommes à risque si nous ne luttons pas contre le changement climatique.
-
-## 3 minutes :
-Lors du jeu de ballon je vais me sentir fort et heureux mais lorsque je serai enfermé dans un casier, je vais me sentir seul et coincé dans un petit espace noir.
+Je crois que cette oeuvre va me faire revoir mes années d'école en ligne et me refaire sentir comme si j'en avait de nouveau et j'aime le fait que cette oeuvre va me faire plonger dans les années passées. 
 
 ## Chère Sasha :
-Nous allons nous sentir mal de voir Sasha se faire intimider par ses parents et de ne pas pouvoir intervenir.
+Je crois que cette oeuvre va me faire ressentir de l'empathie envers Sasha et de la joie parce qu'on pourra voir que cette personne ce sera améliorée en grandissant.
+
+## 3 minutes :
+Je crois que cette expérience sera dure à réaliser mais je me sentirais coincé et stressé dans un petit casier sombre. 
+
+## Chonaufrage :
+Je pense que je vais trouver ça amusant d'activer des tableaux en passant devant, mais sinon pas plus que ça.
 
 # Ce que je ferai dans les projets :
-Je ne suis pas fort en programmation. Je ferai quelque chose de visuel comme par exemple: la chambre de Sasha. Je ferai aussi de la sonorisation. Je vais aider à trouver un concept intéressant pour l'oeuvre avec l'équipe.
+Je pense que je m'occuperais surtout des visuels et des objets à ramener si besoin car la programmation n'est pas mon point fort, et j'ai beaucoup de créativité pour créer des arts visuels.
