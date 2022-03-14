@@ -13,7 +13,8 @@
 
 ### Instalation
 * #### Lors de notre visite, ils revoyaient certaine étapes de codage pour perfectionner leur projet.
-![image_espace_travaille](photographie/image_espace_travail.jpg)
+* ![image_espace_travaille](photographie/image_espace_travail.jpg)
+* ![image_organisation](photographie/image_organisation.jpg)
 
 ### Schéma de plantation 
 ![image_chere_sasha](photographie/image_chere_sasha.jpeg)
