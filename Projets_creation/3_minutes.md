@@ -12,7 +12,7 @@
 * ##### Peur
 
 ### Instalation
-* #### Lors de notre visite l'instalation du casier était la chose qui a le plus attiré notre attention.
+* #### Lors de notre visite, l'instalation du casier était la chose qui a le plus attiré notre attention.
 ![image_chaise](photographie/image_chaise.jpg)
 
 ### Schéma de plantation
