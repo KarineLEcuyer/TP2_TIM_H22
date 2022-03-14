@@ -8,10 +8,11 @@
 
 ### Ambiance
 * ##### Joie
-* ##### Troublement
-* ##### Chaos
+* ##### Confusion
+* ##### Chaos mental
 
 ### Instalation
+Lors de notre visite, les créateurs étaient présent pour nous montrer où toute la magie allait se passer.
 
 ### Schéma de plantation
 ![image_distorsion_collective](photographie/image_distorsion_collective.png)
@@ -19,7 +20,7 @@
 
 ### Intéraction
 * #### Intéragir avec le jeu 
-* #### Suivre les instruction (ex.: mettre le casque)
+* #### Suivre les instructions (ex.: mettre le casque)
 
 ### Cours requis pour la création du projet
 * #### Atelier de création d'images matricielles
