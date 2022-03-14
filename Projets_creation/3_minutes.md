@@ -4,15 +4,16 @@
 * #### Naoufal Bensaiad-Jérémie Lévesque-Samuel Poulin
 
 ### Exploitation du temps
-* ##### À travers le temps, le but de ce projet est de sensibiliser la personne en la faisant expérimenté du bon temps et du mauvais temps à partir d'une immersion dans des activités plaisantes et déplaisantes.
+* ##### À travers le temps, le but de ce projet à été de sensibiliser la personne en la faisant expérimenter du bon temps et du mauvais temps à partir d'une immersion dans des activités tous autant plaisantes que déplaisantes.
 
 ### Ambiance
 * ##### Joyeuse
 * ##### Énergique
 * ##### Peur
-* ##### Détresse
 
 ### Instalation
+* #### Lors de notre visite l'instalation du casier était la chose qui a le plus attiré notre attention.
+![image_chaise](photographie/image_chaise.jpg)
 
 ### Schéma de plantation
 ![image_3_minutes](photographie/image_3_minutes.png)
