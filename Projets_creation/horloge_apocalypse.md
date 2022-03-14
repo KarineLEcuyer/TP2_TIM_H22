@@ -12,13 +12,18 @@
 * ##### Tranquilite
 
 ### Instalation
+* #### Lors de notre visite, ce projet nous a surpris par l'avancement de l'instalation. Ils était presque prêt à le présenter et ils nous en ont parlé en détails. 
+* ![image_horloge](photographie/image_horloge.jpg)
+* ![image_projecteur](photographie/image_projecteur.jpg)
+* ![image_stand_horloge](photographie/image_stand_horloge.jpg)
+* ![image_studio](photographie/image_studio.jpg)
 
 ### Schéma de plantation
 ![image_horloge_apocalypse](photographie/image_horloge_appocalypse.png)
 * #### Source de l'image: https://tim-montmorency.com/2022/projets/L-horloge-de-l-apocalypse/docs/preproduction/01_medias/plantation.png
 
 ### Intéraction
-* #### Interagir avec la scene
+* #### Interagir avec la scène
 * #### Suivre les indications (ex.: remettre les aiguiilles en place)
 
 ### Cours requis pour la création du projet
