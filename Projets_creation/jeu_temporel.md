@@ -12,7 +12,8 @@ Explotation du temps
 
 ### Instalation
 * #### Lors de notre visite, ils étaient en pleine révision de leur codage, mais ont quand même pris le temps de répondre à nos question sur l'immensité de leur instalation.
-![image_station_ordi](photographie/image_station_ordi.jpg)
+* ![image_station_ordi](photographie/image_station_ordi.jpg)
+* ![image_haut_parleurs](photographie/image_haut_parleurs.jpg)
 
 
 ### Schema de plantation
