@@ -13,7 +13,8 @@
 
 ### Instalation
 * #### Lors de notre visite, l'instalation du casier était la chose qui a le plus attiré notre attention.
-![image_chaise](photographie/image_chaise.jpg)
+* ![image_chaise](photographie/image_chaise.jpg)
+* ![image_dispositifs](photographie/image_dispositifs.jpg)
 
 ### Schéma de plantation
 ![image_3_minutes](photographie/image_3_minutes.png)
