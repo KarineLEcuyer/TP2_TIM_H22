@@ -11,6 +11,8 @@
 * ##### Relaxant
 
 ### Instalation
+* #### Lors de notre visite, les créateurs/créatrices de ce projet était entrain de discuter sur leur organisation et ont prit le temps de nous montrer une mini partie de leur projet.
+![image_espace_ordinateur](photographie/image_espace_ordinateur.jpg)
 
 ### Schéma de plantation
 ![image_chronaufrage](photographie/image_chronaufrage.png)
@@ -18,7 +20,7 @@
 
 ### Interaction
 * #### Intéragir avec la scène
-* #### Suivre les indications (ex.: écrire un comentaire) 
+* #### Suivre les indications (ex.: écrire un commentaire) 
 
 ### Cours requis pour la création du projet
 * #### Animation 2D
