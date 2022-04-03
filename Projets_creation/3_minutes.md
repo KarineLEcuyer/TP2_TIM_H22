@@ -1,3 +1,6 @@
+Essai Karine photo
+![image](TP2_TIM_H22/photographie/image_3_minutes.png)
+
 # 3 minutes
 
 ### Créateurs/créatrices
